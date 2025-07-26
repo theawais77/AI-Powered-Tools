@@ -13,7 +13,6 @@ function App() {
         </p>
       </div>
       <Home />
-      {/* <Loading /> */}
       <div className="text-sm text-gray-500 mt-6">
         <p>React AI Powered App</p>
       </div>
